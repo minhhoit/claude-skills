@@ -13,6 +13,24 @@
   },
   "plugins": [
     {
+      "name": "personal-skills",
+      "source": "./personal",
+      "description": "Private operator pack for a solo-parent founder: youtube-policy-script, en-demo-coach, decision-triage, product-copy, backend-conventions.",
+      "version": "1.0.0",
+      "author": {
+        "name": "minhhoit"
+      },
+      "keywords": [
+        "personal",
+        "youtube",
+        "english-coaching",
+        "prioritization",
+        "copywriting",
+        "backend"
+      ],
+      "category": "personal"
+    },
+    {
       "name": "marketing-skills",
       "source": "./marketing-skill",
       "description": "44 marketing skills across 7 pods: Content, SEO, CRO, Channels, Growth, Intelligence, Sales enablement, and X/Twitter growth. 51 Python tools, 73 reference docs.",

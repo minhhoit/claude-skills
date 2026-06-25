@@ -1,0 +1,13 @@
+{
+  "name": "personal-skills",
+  "description": "Personal operator skills for a solo-parent founder: policy-safe YouTube scripting (youtube-policy-script), Vietnamese->English demo coaching (en-demo-coach), evening decision triage across many ventures (decision-triage), product/landing copy for Content Pilot & GearPickle (product-copy), and personal backend/AI code conventions (backend-conventions). Private workflow pack, not part of the upstream collection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minhhoit",
+    "url": "https://github.com/minhhoit"
+  },
+  "homepage": "https://github.com/minhhoit/claude-skills/tree/main/personal",
+  "repository": "https://github.com/minhhoit/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
